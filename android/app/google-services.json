@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "691997881631",
+    "firebase_url": "https://powerprox-project-default-rtdb.firebaseio.com",
+    "project_id": "powerprox-project",
+    "storage_bucket": "powerprox-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691997881631:android:41539dd2d6036260b4ac2a",
+        "android_client_info": {
+          "package_name": "com.example.power_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWPsPzsx8JExN0mByJm5Rb1a205q1njUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691997881631:android:a288637f144192b1b4ac2a",
+        "android_client_info": {
+          "package_name": "com.power.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWPsPzsx8JExN0mByJm5Rb1a205q1njUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
